@@ -1,0 +1,44 @@
+{
+    "items":[
+        {
+            "sys": {"id":"1"},
+            "fields":{
+                "title":"Pilau Recipe",
+                "price":1200,
+                "image":{"fields":{"file":{"url":"Pilau.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"2"},
+            "fields":{
+                "title":"Ugali Recipe",
+                "price":120,
+                "image":{"fields":{"file":{"url":"Ugali.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"3"},
+            "fields":{
+                "title":"Shawarma Recipe",
+                "price":650,
+                "image":{"fields":{"file":{"url":"Shawarma.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"4"},
+            "fields":{
+                "title":"Loaded Fries Recipe",
+                "price":550,
+                "image":{"fields":{"file":{"url":"LoadedFries.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"5"},
+            "fields":{
+                "title":"Nyama Choma Recipe",
+                "price":1200,
+                "image":{"fields":{"file":{"url":"Choma.png"}}}
+            }
+        }
+    ]
+}
